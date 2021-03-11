@@ -4,7 +4,7 @@ Welcome to Project Lighthouse:
 
 So you've decided to be a Lightkeeper, Okay cool!
 
-Firstly build a unofficial builds and try to make it usable.
+First you need to release unofficial builds and try to make it usable.
 
 Follow this format for your pull request message:
 
@@ -20,6 +20,8 @@ Vendor Source:
 Current Linux subversion:
 
 Reason for prebuilt kernel (if exists):
+
+What doesnt Work :  
 
 Selinux: Enforcing/permissive
 
