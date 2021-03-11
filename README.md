@@ -1,4 +1,4 @@
-![LighthouseOS](https://raw.githubusercontent.com/lighthouse-os/Official_devices/Project_Lighthouse.png)
+![LighthouseOS](https://raw.githubusercontent.com/lighthouse-os/Official-Devices/raft/Project_Lighthouse.png)
 # Official-Devices
 Welcome to Project Lighthouse: 
 
